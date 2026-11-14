@@ -1,0 +1,110 @@
+[
+  {
+    "status": 421,
+    "ct": "application/json; charset=utf-8",
+    "len": "569",
+    "u": "https://setup.icloud.com/setup/ws/1/validate?clientBuildNumber=2642Build23&clientMasteringNumber=2642Build23&clientId=47f3cd00-eda4-490a-9351-bbc9563b616d&requestId=21f82f99-b4d8-408a-99de-834038ebdead"
+  },
+  {
+    "status": 200,
+    "ct": "application/json",
+    "len": "1014",
+    "u": "https://www.icloud.com/locales/5/en-US.json?clientBuildNumber=2642Build23&clientMasteringNumber=2642Build23&clientId=47f3cd00-eda4-490a-9351-bbc9563b616d"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/public/records/resolve?remapEnums=true&getCurrentSyncToken=true&clientBuildNumber=2642Build18&clientMasteringNumber=2642Build18&sharing_url_key=01cJE41vl6UVvlYtNLlAgcrjg"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://feedbackws.icloud.com/reportStats"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://p119-ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/shared/records/query?remapEnums=true&getCurrentSyncToken=true&publicAccessAuthToken=CucB547ncNGXXUOXDWgV3nqGjXWN_ikatbn_aw6V6Jo4YCEb7wW1DWaMd4uVb38Xcg4f3M6fCVMkSUfEXQ9cWZRh7xZj5EO8OP464C1uvLGTvS4ZyoXzSCgFmAhr4rmlFAyZaE"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://p119-ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/shared/records/lookup?remapEnums=true&getCurrentSyncToken=true&publicAccessAuthToken=CucB547ncNGXXUOXDWgV3nqGjXWN_ikatbn_aw6V6Jo4YCEb7wW1DWaMd4uVb38Xcg4f3M6fCVMkSUfEXQ9cWZRh7xZj5EO8OP464C1uvLGTvS4ZyoXzSCgFmAhr4rmlFAyZa"
+  },
+  {
+    "status": 200,
+    "ct": "application/octet-stream",
+    "len": "97161",
+    "u": "https://cvws-h2.icloud-content.com/B/AS3lGNWCApgcTvSxk-HLcwKi0Iy-AUt1KSe2QzGkdrA6uENmkpHe0l3-/$%7Bf%7D?o=AsU9CchooHSMZuBmgqrp5YsIK98z_34zurLbW0va6ehl&v=1&x=3&a=CAogtMIxOcZaZnV9ELWB_5YgKBFvmFZutkApois8yoJy9uwSaRCEtfK7nTQYpKypvJ00IgEAUgSi0Iy-WgTe0l3-aiTBc5MnRgb9AKU1W5GASSiEA1Gsq7QXgSgi3Ypy_s5R3qZotKVy"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://p119-ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/shared/records/query?remapEnums=true&getCurrentSyncToken=true&publicAccessAuthToken=CucB547ncNGXXUOXDWgV3nqGjXWN_ikatbn_aw6V6Jo4YCEb7wW1DWaMd4uVb38Xcg4f3M6fCVMkSUfEXQ9cWZRh7xZj5EO8OP464C1uvLGTvS4ZyoXzSCgFmAhr4rmlFAyZaE"
+  },
+  {
+    "status": 200,
+    "ct": "image/jpeg",
+    "len": "49756",
+    "u": "https://cvws-h2.icloud-content.com/B/AbsQS6ruxout9ub5EYakGWPeGSlDAQIxgAJ177yXn7Hp0k-3GmI4LVkl/public.jpeg?o=AtAtQkrh_AdRQiFShVVXSqcyf7BbS25UHGTG3br1SR15&v=1&x=3&a=CAogkb2e11CSVezbuwE6aIQSEI6r0uB6mSKcHaHyUWx5jV0SaRD_u_K7nTQYn7OpvJ00IgEAUgTeGSlDWgQ4LVklaiTRGhDR3_2S9i6-PlzPLGNg9Cm70sEniJq_i9FVv2Ez7tldO"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://feedbackws.icloud.com/reportStats"
+  },
+  {
+    "status": 200,
+    "ct": "application/json",
+    "len": "1014",
+    "u": "https://www.icloud.com/locales/5/en-US.json?clientBuildNumber=2642Build23&clientMasteringNumber=2642Build23&clientId=6143ef5a-0c50-4704-896c-c12cc3b1b53c"
+  },
+  {
+    "status": 421,
+    "ct": "application/json; charset=utf-8",
+    "len": "569",
+    "u": "https://setup.icloud.com/setup/ws/1/validate?clientBuildNumber=2642Build23&clientMasteringNumber=2642Build23&clientId=6143ef5a-0c50-4704-896c-c12cc3b1b53c&requestId=5333cc2e-68ab-4c32-8645-a70589a1ec82"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/public/records/resolve?remapEnums=true&getCurrentSyncToken=true&clientBuildNumber=2642Build18&clientMasteringNumber=2642Build18&sharing_url_key=01cJE41vl6UVvlYtNLlAgcrjg"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://feedbackws.icloud.com/reportStats"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://p119-ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/shared/records/query?remapEnums=true&getCurrentSyncToken=true&publicAccessAuthToken=CucBloPe4WMsIXxs6G_-rnECr64Kj1hEISMyb4e31sxjLW2CS1f3Ar20zT_QVK-Fg4UD3nqEuNSj11-T7nQKN9_eNdSstv-aGOCcdBs5FnLk-RZEP7Mq96_yA5jVh1R-hnM0hs"
+  },
+  {
+    "status": 200,
+    "ct": "application/octet-stream",
+    "len": "97161",
+    "u": "https://cvws-h2.icloud-content.com/B/AS3lGNWCApgcTvSxk-HLcwKi0Iy-AUt1KSe2QzGkdrA6uENmkpHe0l3-/$%7Bf%7D?o=AkiRo_uUNLOjRGfBQ3vmiYUa-SIP_7O2RI8OhJcWkAu7&v=1&x=3&a=CAogjfBQRqUBniQWNZ8fK2iMGesNLnaNShAvrmCZ5RfZBocSaRD9-vu7nTQYnfKyvJ00IgEAUgSi0Iy-WgTe0l3-aiRGeFkTERHsVT3XZ5q9GVlA6xZi48FxV-NmL4nGBh1hnQXSFYBy"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://p119-ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/shared/records/query?remapEnums=true&getCurrentSyncToken=true&publicAccessAuthToken=CucBloPe4WMsIXxs6G_-rnECr64Kj1hEISMyb4e31sxjLW2CS1f3Ar20zT_QVK-Fg4UD3nqEuNSj11-T7nQKN9_eNdSstv-aGOCcdBs5FnLk-RZEP7Mq96_yA5jVh1R-hnM0hs"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://p119-ckdatabasews.icloud.com/database/1/com.apple.photos.cloud/production/shared/records/lookup?remapEnums=true&getCurrentSyncToken=true&publicAccessAuthToken=CucBloPe4WMsIXxs6G_-rnECr64Kj1hEISMyb4e31sxjLW2CS1f3Ar20zT_QVK-Fg4UD3nqEuNSj11-T7nQKN9_eNdSstv-aGOCcdBs5FnLk-RZEP7Mq96_yA5jVh1R-hnM0h"
+  },
+  {
+    "status": 200,
+    "ct": "image/jpeg",
+    "len": "49756",
+    "u": "https://cvws-h2.icloud-content.com/B/AbsQS6ruxout9ub5EYakGWPeGSlDAQIxgAJ177yXn7Hp0k-3GmI4LVkl/public.jpeg?o=AktMYR3x6Jn0EQKXAYV-BoA6auT9xokQsH7ZomhbNco7&v=1&x=3&a=CAogD8qKI0fO0WHLOabYB_uBVwhnWnJ-ke2n3wzaRtx4MQ8SaRCDgPy7nTQYo_eyvJ00IgEAUgTeGSlDWgQ4LVklaiT5aPVHtSGNpGhz4dDKeDieG26hE4Rok-WZkRF0mIn7ADrt5"
+  },
+  {
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "u": "https://feedbackws.icloud.com/reportStats"
+  }
+]

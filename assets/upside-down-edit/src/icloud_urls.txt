@@ -1,0 +1,22 @@
+iCloud Share Link: https://share.icloud.com/photos/01cJE41vl6UVvlYtNLlAgcrjg
+
+Direct iCloud Content URLs discovered (via network monitoring):
+
+1. Thumbnail/Preview Image (97KB, application/octet-stream):
+https://cvws-h2.icloud-content.com/B/AS3lGNWCApgcTvSxk-HLcwKi0Iy-AUt1KSe2QzGkdrA6uENmkpHe0l3-/$%7Bf%7D?o=AtJ2U1me3L66sEHvFi0GZVElzuzhbm63JZ19YwxYUnlo&v=1&x=3&a=CAogCC09UsiRPbMiIVMSXwdy_-pohPCUlh7aZXl8QFZ9UbsSaRDglbG7nTQYgI3ou500IgEAUgSi0Iy-WgTe0l3-aiQqDeV066j9GVtgpgiKA9Yrwvu0giqG8f5BAwJrQwZsBIgMdwRyJFyWWz_GWPgU61ZbZZdOijY2XHEKFrdquXlRQBAuiIjm-mc7kQ&e=1794616460&fl=&r=a1c55ea6-7d97-4961-beba-128d02168b2e-1&k=xf53sFE7cHOEc92jZ6hZXQ&ckc=com.apple.photos.cloud&ckz=CMM-EB8E1B3B-977D-439D-9108-2943D20F11A4&y=1&p=119&s=Vz_rDRbD36tUbPBS4Tt0jUS4HJQ
+
+2. JPEG Thumbnail (49KB):
+https://cvws-h2.icloud-content.com/B/AbsQS6ruxout9ub5EYakGWPeGSlDAQIxgAJ177yXn7Hp0k-3GmI4LVkl/public.jpeg?o=Ari1LXH5cz21rrB-3oCTlZ0SXpsWN-05yqBExP-ZnWcU&v=1&x=3&a=CAogaL-soZatXcSZGpLLEwegiGGqc91KihMAx5Uuf3TQyO0SaRDdmrG7nTQY_ZHou500IgEAUgTeGSlDWgQ4LVklaiSCOfeBHn-xPl89WLlGddCRluGSAXPHPTsjm78VLEzA67V7QvByJOL0Ceuidq3Fyy8tj_sHia2LZmXB3bwrZ8j7DKkx59hd5R9bZg&e=1794616461&fl=&r=ed9a5d00-508f-42f7-8a0b-c639cd93a8b8-1&k=QTTwZ7kgEVNOtUsJz6ckdQ&ckc=com.apple.photos.cloud&ckz=CMM-EB8E1B3B-977D-439D-9108-2943D20F11A4&y=1&p=119&s=oAJWK3_0c34_1JqltEchgKqIu-w&og=Resource%20Download
+
+NOTE: The actual full-resolution video file did not load automatically. 
+These URLs only contain thumbnail/preview images.
+The Download button on the iCloud page appears to require authentication or
+specific session cookies to function properly.
+
+Video Observations from Preview:
+- Subject: Man wearing large blue-mirrored sunglasses and white t-shirt
+- Location: Urban street setting (appears to be Hong Kong based on architecture)
+- Aspect Ratio: Portrait/vertical (9:16 approximately)
+- Date: November 9
+- Duration: Unknown (not visible in preview)
+- Audio: Unknown (likely present as it's a video)
